@@ -278,6 +278,7 @@ h1 {
   }
   .grid .email-input form input {
     display: block;
+    width: 100%;
     padding: 1em;
     margin-top: 8px;
     font-size: 17px;
